@@ -1,9 +1,11 @@
-# .py Files
+# git-workflow-west-ds-082420
 
-Created based on [this repo](https://github.com/learn-co-curriculum/dsc-chi-warmup-py-files) by Ben Oren
+[Instructions here](/instructions.md)
 
-## The Goal
+## Business Understanding
 
-There are two exploratory notebooks, `01_data_cleaning.ipynb` and `02_visualizations.ipynb`
+## Data Understanding and Preparation
 
-Let's extract the code from those into `.py` files in order to make a final presentation notebook
+## Modeling
+
+## Evaluation
