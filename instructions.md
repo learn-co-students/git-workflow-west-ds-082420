@@ -17,7 +17,7 @@ Let's say we have a team of 3:
 ## README Edits with Basic Branching Workflow
 
  - [x] Teammate A: change the README title and add an image from [Unsplash](https://unsplash.com/)
- - [] Teammate B: add a graph to the README under Data Understanding
+ - [x] Teammate B: add a graph to the README under Data Understanding
 
 ^ with proper Git workflow, these two things can be done at the same time
 
