@@ -6,6 +6,8 @@
 
 ## Data Understanding and Preparation
 
+![graph of number of "fights"](report/img/highest_10_number_fights.png)
+
 ## Modeling
 
 ## Evaluation
